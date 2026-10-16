@@ -57,7 +57,7 @@
 
 ###
 
-<h5 align="left">Software Development Student</h5>
+<h5 align="left">Education: 2 years specialised Software Development & currently studying Computer Science at Uni</h5>
 
 ###
 
@@ -73,11 +73,16 @@
 
 <br clear="both">
 
+#
 <img align="left" height="50" src="https://64.media.tumblr.com/7bd6d716659c1eb85cc342ddef8809cd/8384434a908324be-b4/s1280x1920/6131922958a4e253bdd2ac0097cf36ba792e307a.png"  />
 
 ###
 
-<h6 align="left">Hihi !! I'm Molly, <br><br>I’m passionate about coding and I'm committed to improving my skills and further expanding my understanding of software development !!<br><br>Outside of coding my interests include things such as painting, digital art, gaming and reading :)</h6>
+<h6 align="left">Hihi !! I'm Molly, <br>
+
+<br>I’m passionate about coding and creating and am committed to improving my skills and further expanding my understanding of software development and computer science as a whole !!<br>
+<br>I really enjoy the creative side of development, creating my own backgrounds, logos, mascots and a variety of assests for my projects<br>
+<br>Outside of development/coding my interests include things such as watercolour painting, digital art, sketching, gaming and reading :)</h6>
 
 ###
 
